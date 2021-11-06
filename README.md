@@ -1,5 +1,6 @@
-### Hi there 👋
+Soy PGSCOM, subo videos para Youtube, se hacer videojuegos con unity, se programar en html y en phyton y hago directos en twitch. Se modelar y animar en 3D con Blender y editar videos con DaVincy Resolve.
 
+Mi pagina web oficial es * [pgscom.github.io](https://pgscom.github.io)
 <!--
 **PGSCOM/PGSCOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
