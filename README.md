@@ -1,6 +1,22 @@
+<p align="center">
+ <img width="150px" src="https://avatars.githubusercontent.com/u/69808296" align="center" alt="PGSCOM" />
+ <h2 align="center">PGSCOM</h2>
+</p>
+
 Soy PGSCOM, subo videos para Youtube, se hacer videojuegos con unity, se programar en html y en phyton y hago directos en twitch. Se modelar y animar en 3D con Blender y editar videos con DaVincy Resolve.
 
 Mi pagina web oficial es  [pgscom.github.io](https://pgscom.github.io)
+
+
+<p>
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=PGSCOM&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
+ <img width=41.6%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGSCOM&layout=compact&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" />
+</p>
+
+
+
+
+
 <!--
 **PGSCOM/PGSCOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
