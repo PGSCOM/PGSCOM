@@ -15,8 +15,8 @@ Mi pagina web oficial es  [pgscom.github.io](https://pgscom.github.io)
 </p>
 
 # 👨‍💻Mi blog [Tec400](https://tec400.blogspot.com)
-<!—- BLOG-POST-LIST:START -—>
-<!—- BLOG-POST-LIST:END -—>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **PGSCOM/PGSCOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
