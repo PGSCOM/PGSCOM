@@ -7,11 +7,7 @@ Soy PGSCOM, subo videos para Youtube, se hacer videojuegos con unity, se program
 
 Mi pagina web oficial es  [pgscom.github.io](https://pgscom.github.io)
 
-
-
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PGSCOM&locale=es&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true"/>
-<p></p>
- <img width=48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGSCOM&layout=compact&locale=es&bg_color=30,904e95,e96443&title_color=fff&text_color=fff"/>
+![Metrics](/github-metrics.svg)
 
 # 👨‍💻Mi blog [Tec400](https://tec400.blogspot.com)
 <!-- BLOG-POST-LIST:START -->
