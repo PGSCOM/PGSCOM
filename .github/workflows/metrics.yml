@@ -65,7 +65,7 @@ jobs:
           plugin_traffic: yes
           plugin_tweets: yes
           plugin_tweets_limit: 5
-          plugin_tweets_token: ${{ secrets.TWITTER_API_TOKEN }}
+          plugin_tweets_token: ${{ secrets.TWITTER_API_KEY }}
           plugin_tweets_user: PGSCOM_54
           plugin_tweets_attachments: yes
           repositories_forks: yes
