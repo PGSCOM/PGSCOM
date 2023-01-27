@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1740" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1830" class="">
     <defs>
         <style/>
     </defs>
@@ -484,6 +484,14 @@
                             PGSCOM_54
                         </div>
                         <div class="tweet">
+                            Lo que digo en clase: Friki Japonés
+                            <br />
+                            Lo que dice la profesora que he hecho:
+                            <br />
+                            <a href="https://t.co/Pqz4k1mCO5" class="link">twitter.com/koreaboo/statu…</a>
+                            <div class="date">19:55:58 on 27 Jan 2023</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@Minecraft</span>
                             Por fin una razón por la que merece la pena descargar la 1.20
                             <div class="date">22:52:45 on 24 Jan 2023</div>
@@ -722,7 +730,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jan 2023, 19:07:19 (timezone Europe/Madrid) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 27 Jan 2023, 20:02:43 (timezone Europe/Madrid) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
