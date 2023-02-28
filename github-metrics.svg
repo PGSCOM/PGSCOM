@@ -479,6 +479,11 @@
                             PGSCOM_54
                         </div>
                         <div class="tweet">
+                            <span class="mention">@Lucia_estradaa</span>
+                            Ya me puedo sentar en mi sitio?
+                            <div class="date">21:07:30 on 28 Feb 2023</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@jugonvirtual</span>
                             Divertida
                             <div class="date">21:06:49 on 28 Feb 2023</div>
@@ -497,11 +502,6 @@
                                 </div>
                             </div>
                             <div class="date">22:46:44 on 27 Feb 2023</div>
-                        </div>
-                        <div class="tweet">
-                            LUZU CON FERNANFLOOOOO
-                            <span class="hashtag">#LaVelada3</span>
-                            <div class="date">21:26:27 on 27 Feb 2023</div>
                         </div>
                     </section>
                 </div>
@@ -724,7 +724,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Feb 2023, 21:07:09 (timezone Europe/Madrid) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 28 Feb 2023, 22:03:35 (timezone Europe/Madrid) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
