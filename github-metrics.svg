@@ -532,7 +532,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MetaMask/logo</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A 3d take on the metamask logo, in browser, as a browserifyable module.</div>
@@ -585,7 +585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>derjanb/hamiyoca</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hash me if you can - A Bitcoin miner that supports pure Javscript, WebWorker and WebGL mining.</div>
@@ -729,7 +729,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Mar 2023, 18:02:28 (timezone Europe/Madrid) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 4 Mar 2023, 19:06:55 (timezone Europe/Madrid) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
