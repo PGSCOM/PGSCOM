@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MetaMask/logo</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A 3d take on the metamask logo, in browser, as a browserifyable module.</div>
@@ -728,7 +728,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Mar 2023, 17:05:54 (timezone Europe/Madrid) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 5 Mar 2023, 18:02:57 (timezone Europe/Madrid) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
