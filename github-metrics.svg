@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2040" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2096" class="">
     <defs>
         <style/>
     </defs>
@@ -484,6 +484,11 @@
                             PGSCOM_54
                         </div>
                         <div class="tweet">
+                            <span class="mention">@galiindo13</span>
+                            La IA va a estar baneada de Twitch en cuestión de semanas.
+                            <div class="date">22:55:34 on 28 Mar 2023</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@galiindo13</span>
                             : cajera: "el total sería de 10,75€"
@@ -724,7 +729,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Mar 2023, 22:04:41 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Mar 2023, 23:03:09 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
