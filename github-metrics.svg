@@ -514,7 +514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/MixedRealityToolkit-Unity</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mixed Reality Toolkit (MRTK) provides a set of components and features to accelerate cross-platform MR app development in Unity.</div>
@@ -567,7 +567,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Unity-Technologies/XR-Interaction-Toolkit-Examples</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository contains various examples to use with the XR Interaction Toolkit</div>
@@ -723,7 +723,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Apr 2023, 02:25:09 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Apr 2023, 03:41:31 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
