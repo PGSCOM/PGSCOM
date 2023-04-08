@@ -7,6 +7,6 @@ Soy PGSCOM, subo videos para Youtube, se hacer videojuegos con Unity, se program
 
 [Mi página web](https://pgscom.github.io)
 
-
-![](/github-metrics.svg)
-
+<p align="center">
+ <img src="github-metrics.svg" align="center"/>
+</p>
