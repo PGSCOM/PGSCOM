@@ -533,7 +533,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>steveseguin/raspberry_ninja</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stream live video from your Raspberry Pi / Jetson to VDO.Ninja!</div>
@@ -580,7 +580,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>steveseguin/offline_deployment</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VDO.Ninja offline deployment script</div>
@@ -627,7 +627,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>steveseguin/i-want-you-ecard</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a cute e-card designed to be hosted as a website for someone you love</div>
@@ -674,7 +674,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>steveseguin/invite.cam</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code for obfuscating web links; no cookies or API servers needed</div>
@@ -718,7 +718,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Apr 2023, 23:02:51 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 Apr 2023, 00:02:42 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
