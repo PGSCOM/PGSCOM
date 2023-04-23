@@ -509,7 +509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Xaymar/obs-StreamFX</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.</div>
@@ -736,7 +736,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Apr 2023, 14:10:47 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Apr 2023, 15:06:56 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
