@@ -407,7 +407,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 174.9 characters per line of code written</li>
+                        <li>Has approximately 175.4 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -617,7 +617,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>primer/css</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The CSS design system that powers GitHub</div>
@@ -670,7 +670,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ImgBotApp/pdf-bot</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -738,7 +738,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Apr 2023, 23:03:02 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 Apr 2023, 00:07:33 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
