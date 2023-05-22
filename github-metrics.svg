@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/sql-server-samples</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge</div>
@@ -520,7 +520,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tvillarete/ipod-classic-js</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An iPod Classic emulator that connects to Apple Music and Spotify. Built with React &amp; Styled Components</div>
@@ -670,7 +670,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 May 2023, 07:03:43 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 May 2023, 08:08:35 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
