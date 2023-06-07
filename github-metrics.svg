@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gitify-app/gitify</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux.</div>
@@ -526,7 +526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nittanygeek/LiDAR-Importer</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a Blender LiDAR Importer I built for LASer (LAS) point cloud data.</div>
@@ -579,7 +579,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>domlysz/BlenderGIS</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Blender addons to make the bridge between Blender and geographic data</div>
@@ -676,7 +676,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jun 2023, 11:03:21 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 Jun 2023, 12:03:35 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
