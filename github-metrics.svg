@@ -567,7 +567,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nittanygeek/LiDAR-Importer</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a Blender LiDAR Importer I built for LASer (LAS) point cloud data.</div>
@@ -620,7 +620,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>domlysz/BlenderGIS</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Blender addons to make the bridge between Blender and geographic data</div>
@@ -670,7 +670,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jun 2023, 11:03:34 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Jun 2023, 12:04:06 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
