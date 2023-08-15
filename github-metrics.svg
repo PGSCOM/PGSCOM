@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>devartis/passbook</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python library to create Apple Passbook (.pkpass) files</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>symless/synergy-core</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)</div>
@@ -706,7 +706,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Aug 2023, 02:25:46 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 15 Aug 2023, 03:37:53 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
