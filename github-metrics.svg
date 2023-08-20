@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google-pay/pass-converter</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tool to convert passes for different wallet apps from one format to another</div>
@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alexandercerutti/passkit-generator</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The easiest way to generate custom Apple Wallet passes in Node.js</div>
@@ -637,7 +637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tinovyatkin/pass-js</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apple Wallet Passes generating library for Node.JS</div>
@@ -687,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Aug 2023, 11:02:56 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Aug 2023, 12:03:04 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
