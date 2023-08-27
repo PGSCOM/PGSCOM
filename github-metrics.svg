@@ -615,7 +615,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lxde/lxrandr</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LXDE monitor configuration tool</div>
@@ -665,7 +665,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Aug 2023, 23:02:36 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Aug 2023, 00:02:52 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
