@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pallets/flask</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Python micro framework for building web applications.</div>
@@ -526,7 +526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zerotier/zeronsd</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A DNS server for ZeroTier users</div>
@@ -671,7 +671,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Aug 2023, 02:26:35 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Aug 2023, 03:40:05 (timezone Europe/Madrid) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
