@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hbldh/bleak</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cross platform Bluetooth Low Energy Client for Python using asyncio</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pybluez/pybluez</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bluetooth Python extension module</div>
@@ -681,7 +681,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Sept 2023, 18:03:54 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Sept 2023, 19:02:22 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
