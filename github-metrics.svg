@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mikubill/sd-webui-controlnet</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WebUI extension for ControlNet</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AUTOMATIC1111/stable-diffusion-webui</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stable Diffusion web UI</div>
@@ -637,7 +637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alexanyernas/Efecto-Parallax-YouTube</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Efecto Parallax desarrollado para el canal de YouTube utilizando únicamente HTML y CSS</div>
@@ -681,7 +681,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Oct 2023, 19:03:18 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Oct 2023, 20:08:05 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
