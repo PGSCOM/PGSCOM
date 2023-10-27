@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jjjake/internetarchive</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python and Command-Line Interface to Archive.org</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gdamdam/iagitup</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A command line tool to archive a git repository from GitHub to the Internet Archive.</div>
@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>python/cpython</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Python programming language</div>
@@ -637,7 +637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>schollz/croc</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -691,7 +691,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Oct 2023, 02:26:36 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2023, 03:39:47 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
