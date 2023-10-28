@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>actions/deploy-pages</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Action to publish artifacts to GitHub Pages for deployments</div>
@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gdamdam/iagitup</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A command line tool to archive a git repository from GitHub to the Internet Archive.</div>
@@ -687,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Oct 2023, 23:02:27 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Oct 2023, 00:02:34 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
