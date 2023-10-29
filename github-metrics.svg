@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ektogamat/camera-webgi</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A template for buildind scrollable landing pages with Gsap, ScrollTrigger and webgi engine in typescript using parcel bundler.</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davidhckh/SmoothScroll</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple SmoothScroll using JavaScript</div>
@@ -578,7 +578,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>actions/deploy-pages</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Action to publish artifacts to GitHub Pages for deployments</div>
@@ -681,7 +681,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Oct 2023, 16:03:16 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Oct 2023, 17:03:48 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
