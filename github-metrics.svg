@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kriasoft/react-starter-kit</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The web's most popular Jamstack front-end template (boilerplate) for building web applications with React</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ektogamat/camera-webgi</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A template for buildind scrollable landing pages with Gsap, ScrollTrigger and webgi engine in typescript using parcel bundler.</div>
@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davidhckh/SmoothScroll</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple SmoothScroll using JavaScript</div>
@@ -681,7 +681,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Oct 2023, 08:03:56 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Oct 2023, 09:08:32 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
