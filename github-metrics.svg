@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>github/mona-sans</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mona Sans, a variable font from GitHub</div>
@@ -578,7 +578,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ektogamat/camera-webgi</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A template for buildind scrollable landing pages with Gsap, ScrollTrigger and webgi engine in typescript using parcel bundler.</div>
@@ -631,7 +631,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davidhckh/SmoothScroll</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple SmoothScroll using JavaScript</div>
@@ -675,7 +675,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Oct 2023, 15:03:30 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Oct 2023, 16:04:04 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
