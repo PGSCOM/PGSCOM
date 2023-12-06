@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elliotmatson/Docker-Davinci-Resolve-Project-Server</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Resolve project server with automatic backups and an updated Postgresql version</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>allebb/pirrot</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A radio repeater controller (supporting both simplex and duplex operation modes) for the RaspberryPi.</div>
@@ -690,7 +690,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Dec 2023, 09:08:38 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Dec 2023, 10:04:46 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
