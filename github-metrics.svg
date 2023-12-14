@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webmin/webmin</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powerful and flexible web-based server management control panel</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bgstaal/multipleWindow3dScene</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage</div>
@@ -681,7 +681,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Dec 2023, 06:04:18 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Dec 2023, 07:08:31 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
