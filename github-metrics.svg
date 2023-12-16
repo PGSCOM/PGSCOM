@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kefir500/apk-editor-studio</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powerful yet easy to use APK editor for PC and Mac.</div>
@@ -637,7 +637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bgstaal/multipleWindow3dScene</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage</div>
@@ -687,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Dec 2023, 18:02:37 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Dec 2023, 19:07:13 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
