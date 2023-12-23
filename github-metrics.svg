@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>inloop/sqlite-viewer</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">View SQLite file online</div>
@@ -632,7 +632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webmin/webmin</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powerful and flexible web-based server management control panel</div>
@@ -682,7 +682,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Dec 2023, 20:02:12 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Dec 2023, 21:03:51 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
