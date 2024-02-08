@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jaquadro/NBTExplorer</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A graphical NBT editor for all Minecraft NBT data sources</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mohnishlandge/threejs-template-glb</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Custom Objects in Three.js</div>
@@ -675,7 +675,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Feb 2024, 22:02:32 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2024, 23:03:05 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
