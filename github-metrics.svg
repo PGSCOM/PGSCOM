@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emuPlace/Limon</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Limón is the world's first Nintendo 3DS emulator for iPad and iPhone built on top of Citra making use of the experimental Vulkan renderer by GPUcode through MoltenVK, written in Objective-C and Swift</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>guygodin/VirtualDesktop</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Connect wirelessly to your computer(s) to watch movies, browse the web, play games on a giant virtual screen or stream PCVR games. Virtual Desktop is a highly optimized, native application developed for low latency, high quality streaming.</div>
@@ -675,7 +675,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Feb 2024, 20:02:17 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Feb 2024, 21:08:10 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
