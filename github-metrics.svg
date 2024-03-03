@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emuPlace/Limon</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Limón is the world's first Nintendo 3DS emulator for iPad and iPhone built on top of Citra making use of the experimental Vulkan renderer by GPUcode through MoltenVK, written in Objective-C and Swift</div>
@@ -675,7 +675,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Mar 2024, 19:07:03 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Mar 2024, 20:02:06 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
