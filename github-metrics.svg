@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>transmission/transmission</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official Transmission BitTorrent client repository</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kee-org/keepassrpc</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The KeePassRPC plugin that needs to be installed inside KeePass in order for Kee to be able to connect your browser to your passwords</div>
@@ -685,7 +685,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Apr 2024, 09:03:20 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Apr 2024, 10:08:56 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
