@@ -477,7 +477,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openairplay/airplay2-receiver</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AirPlay 2 Receiver - Python implementation</div>
@@ -524,7 +524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>koush/vysor.io</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vysor - Mirror and Control your Phone</div>
@@ -571,7 +571,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FD-/RPiPlay</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.</div>
@@ -669,7 +669,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 May 2024, 22:07:22 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2024, 23:05:44 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
