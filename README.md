@@ -3,7 +3,7 @@
  <h2 align="center">PGSCOM</h2>
 </p>
 
-Soy PGSCOM, subo videos para Youtube, se hacer videojuegos con Unity, se programar en html y en phyton y hago directos en twitch. Se modelar y animar en 3D con Blender y editar videos con DaVincy Resolve.
+Soy PGSCOM, subo videos para Youtube, Se programar en Html, CSS, Javascript y Python. También modelar y animar en 3D con Blender, editar videos en DaVinci Resolve y trabajar con producción virtual en Unreal Engine 5.
 
 [Mi página web](https://pgscom.github.io)
 
