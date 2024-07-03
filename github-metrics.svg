@@ -407,7 +407,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 30.4 characters per line of code written</li>
+                        <li>Has approximately 30.6 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>graphdeco-inria/gaussian-splatting</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bycloudai/instant-ngp-Windows</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Instant neural graphics primitives: lightning fast NeRF and more</div>
@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVlabs/instant-ngp</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Instant neural graphics primitives: lightning fast NeRF and more</div>
@@ -687,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Jul 2024, 05:08:15 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jul 2024, 06:08:38 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
