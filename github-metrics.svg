@@ -407,7 +407,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 36.2 characters per line of code written</li>
+                        <li>Has approximately 36.1 characters per line of code written</li>
                         <li>Mostly pushes code around 21:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>schollz/howmanypeoplearearound</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -645,7 +645,7 @@
                                         <span>starred 15 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.</div>
+                                <div class="field description">Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -692,7 +692,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jul 2024, 00:07:31 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jul 2024, 01:08:13 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
