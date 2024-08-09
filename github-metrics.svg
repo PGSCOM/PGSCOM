@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>notAperson535/OneClick-macOS-Simple-KVM</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tools to set up a easy, quick macOS VM in QEMU, accelerated by KVM. Works on Linux AND Windows.</div>
@@ -526,7 +526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>is-a-dev/register</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Grab your own sweet-looking '.is-a.dev' subdomain.</div>
@@ -579,7 +579,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marticliment/UniGetUI</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers</div>
@@ -677,7 +677,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Aug 2024, 09:07:42 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Aug 2024, 10:10:40 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
