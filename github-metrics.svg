@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>comfyanonymous/ComfyUI_Blog</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ComfyUI blog</div>
@@ -525,7 +525,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ltdrdata/ComfyUI-Manager</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.</div>
@@ -631,7 +631,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antfu/sd-webui-qrcode-toolkit</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Anthony's QR Toolkit for Stable Diffusion WebUI</div>
@@ -681,7 +681,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Aug 2024, 19:06:26 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Aug 2024, 20:09:45 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
