@@ -5,7 +5,7 @@
 
 Soy PGSCOM, subo videos para Youtube, Se programar en Html, CSS, Javascript y Python. También modelar y animar en 3D con Blender, editar videos en DaVinci Resolve y trabajar con producción virtual en Unreal Engine 5.
 
-[Mi página web](https://pgscom.github.io)
+[Mi página web](https://pgscom.es)
 
 <p align="center">
  <img src="github-metrics.svg" align="center"/>
