@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>univrsal/tuna</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Song information plugin for obs-studio</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ryzetech/cider4obs</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Display what you're playing onstream! No complicated setup, no login, just OBS and a browser source!</div>
@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ingostrohmeier/cider-nowplayinginfo</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Now Playing Plugin for Cider</div>
@@ -631,7 +631,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ZigaoWang/daztab</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DazTab is a Chrome Extension that replaces your browser new tab page into a macOS-styled dashboard.</div>
@@ -681,7 +681,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Oct 2024, 13:06:58 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Oct 2024, 14:14:02 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
