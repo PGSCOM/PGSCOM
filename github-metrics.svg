@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FDH2/UxPlay</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AirPlay Unix mirroring server</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antimof/UxPlay</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AirPlay Unix mirroring server</div>
@@ -687,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Oct 2024, 11:08:15 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Oct 2024, 12:07:23 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
