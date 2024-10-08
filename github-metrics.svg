@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/ChatRTX</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HospitalRun/hospitalrun</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Monorepo that holds all of HospitalRun's v2 projects.</div>
@@ -688,7 +688,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Oct 2024, 23:07:39 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2024, 00:07:41 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
