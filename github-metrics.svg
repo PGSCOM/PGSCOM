@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Bill-Stewart/SyncthingWindowsSetup</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Syncthing Windows Setup</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vllm-project/vllm</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high-throughput and memory-efficient inference and serving engine for LLMs</div>
@@ -565,7 +565,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        4.91k
+                                        4.92k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/chat-ui</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source codebase powering the HuggingChat app</div>
@@ -637,7 +637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ThetaCursed/clean-ui</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple UI for Llama-3.2-11B-Vision &amp; Molmo-7B-D</div>
@@ -687,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Oct 2024, 06:10:41 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Oct 2024, 07:09:30 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
