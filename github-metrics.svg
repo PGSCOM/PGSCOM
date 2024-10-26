@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vllm-project/vllm</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high-throughput and memory-efficient inference and serving engine for LLMs</div>
@@ -637,7 +637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/chat-ui</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source codebase powering the HuggingChat app</div>
@@ -687,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Oct 2024, 14:13:29 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Oct 2024, 15:13:43 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
