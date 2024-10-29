@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>imperialwool/HuggingCraft</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Launching Minecraft server on HuggingFace or another Docker service.</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ciderapp/node_airtunes2</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">node.js AirTunes v2 implementation: stream wirelessly to Apple audio devices.</div>
@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openairplay/node_airtunes</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">node.js AirTunes v2 implementation: stream wirelessly to Apple audio devices.</div>
@@ -687,7 +687,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Oct 2024, 12:07:20 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Oct 2024, 13:14:57 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
