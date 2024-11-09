@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>straight-tamago/misakaX</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">iOS /iPadOS 16.0 - 18.0 / 18.1 beta 4, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</div>
@@ -506,7 +506,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        362
+                                        363
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -525,7 +525,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alvarotrigo/fullPage.js</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple</div>
@@ -578,7 +578,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huihuimoe/one-page-scroll</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple One Page Scroll plugin.</div>
@@ -631,7 +631,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emanuelefavero/apple-scroll-animation</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vanilla Javascript frame synced to scroll Apple animation</div>
@@ -675,7 +675,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Nov 2024, 13:12:31 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Nov 2024, 14:12:18 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
