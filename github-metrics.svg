@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tldraw/tldraw</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">whiteboard / infinite canvas SDK</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sohrabhamza/sheep-it-on-colab</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple notebook I wrote to get sheepit working on google colab. AFAIK it's within tos to use it like this.</div>
@@ -578,7 +578,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dimsemenov/photoswipe-video-plugin</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Video plugin for the PhotoSwipe</div>
@@ -625,7 +625,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dimsemenov/PhotoSwipe</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript image gallery for mobile and desktop, modular, framework independent</div>
@@ -675,7 +675,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Dec 2024, 18:01:14 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Dec 2024, 19:01:18 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
