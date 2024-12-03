@@ -342,7 +342,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="308.5183254053595" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="308.5183254053595" y="0" width="142.51022612841402" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="308.5183254053595" y="0" width="142.51022612841402" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="451.0285515337735" y="0" width="6.4268145703693405" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="457.45536610414285" y="0" width="2.544633895857158" height="8" fill="#3572A5"/>
                 </svg>
@@ -355,7 +355,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -585,7 +585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sohrabhamza/sheep-it-on-colab</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple notebook I wrote to get sheepit working on google colab. AFAIK it's within tos to use it like this.</div>
@@ -676,7 +676,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Dec 2024, 13:01:24 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 14:08:03 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
