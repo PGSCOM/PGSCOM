@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>surge-synthesizer/surge</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Synthesizer plug-in (previously released as Vember Audio Surge)</div>
@@ -632,7 +632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pyload/pyload</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The free and open-source Download Manager written in pure Python</div>
@@ -682,7 +682,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Dec 2024, 17:01:23 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Dec 2024, 18:01:20 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
