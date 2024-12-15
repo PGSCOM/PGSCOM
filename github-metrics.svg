@@ -476,7 +476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codifryed/coolero</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a mirror of the official repo on gitlab. Please go there for reporting issues and feature requests. The Project has undergone a name and implementation change. Please check out CoolerControl for new developments.</div>
@@ -529,7 +529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jurkovic-nikola/OpenLinkHub</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux</div>
@@ -550,7 +550,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        99
+                                        100
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -582,7 +582,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ciderapp/Cider-Remote</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A full SwiftUI suite remote application for Cider 2.5+ designed and developed by @cryptofyre</div>
@@ -629,7 +629,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>discord/cloudflare-sample-app</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example discord bot using Cloudflare Workers</div>
@@ -679,7 +679,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Dec 2024, 02:29:01 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2024, 03:30:16 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
