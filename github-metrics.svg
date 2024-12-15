@@ -476,7 +476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codifryed/coolero</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a mirror of the official repo on gitlab. Please go there for reporting issues and feature requests. The Project has undergone a name and implementation change. Please check out CoolerControl for new developments.</div>
@@ -529,7 +529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jurkovic-nikola/OpenLinkHub</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux</div>
@@ -582,7 +582,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ciderapp/Cider-Remote</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A full SwiftUI suite remote application for Cider 2.5+ designed and developed by @cryptofyre</div>
@@ -629,7 +629,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>discord/cloudflare-sample-app</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example discord bot using Cloudflare Workers</div>
@@ -679,7 +679,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Dec 2024, 09:01:18 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2024, 10:01:14 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
