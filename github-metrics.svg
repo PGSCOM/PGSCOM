@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Nekmo/telegram-upload</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Upload and download files from Telegram up to 4 GiB using your account</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FL33TW00D/whisper-turbo</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -704,7 +704,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jan 2025, 20:01:24 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Jan 2025, 21:01:28 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
