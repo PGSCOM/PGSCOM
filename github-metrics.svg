@@ -485,7 +485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bigwhite/issue2md</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool to convert GitHub issue into Markdown.</div>
@@ -532,7 +532,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>winfsp/winfsp</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows File System Proxy - FUSE for Windows</div>
@@ -585,7 +585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rclone/rclone-webui-react</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A full fledged UI for the rclone cloud sync tool</div>
@@ -638,7 +638,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jpillora/installer</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">One-liner for installing binaries from Github releases</div>
@@ -688,7 +688,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Feb 2025, 12:01:15 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Feb 2025, 13:01:21 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
