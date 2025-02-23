@@ -583,7 +583,7 @@
                                         <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Depth Any Video with Scalable Synthetic Data</div>
+                                <div class="field description">Depth Any Video with Scalable Synthetic Data (ICLR 2025)</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -633,7 +633,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thewh1teagle/kokoro-onnx</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TTS with kokoro and onnx runtime</div>
@@ -683,7 +683,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Feb 2025, 03:25:38 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Feb 2025, 04:07:23 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
