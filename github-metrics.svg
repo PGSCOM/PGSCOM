@@ -485,7 +485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/nerfies</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.</div>
@@ -538,7 +538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TombstoneTumbleweedArt/import-ply-as-verts</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Blender Python PLY importer for point clouds and nonstandard models.</div>
@@ -671,7 +671,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Feb 2025, 21:01:25 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Feb 2025, 22:01:21 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
