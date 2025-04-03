@@ -485,7 +485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bitfocus/companion-module-vdo-ninja</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VDO.Ninja module for Companion</div>
@@ -538,7 +538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cyclotruc/gitingest</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase</div>
@@ -591,7 +591,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>m1k1o/neko</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A self hosted virtual browser that runs in docker and uses WebRTC.</div>
@@ -644,7 +644,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kbinani/je2be-core</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Map converter for Minecraft Java, Bedrock, Xbox360, and PS3 Edition: Available as a Web App https://je2be.app, and as a Desktop App on Microsoft Store: https://www.microsoft.com/store/apps/9PC9MFX9QCXS</div>
@@ -694,7 +694,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Apr 2025, 03:28:32 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2025, 04:27:32 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
