@@ -485,7 +485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ccabanillas/notion-mcp</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Model Context Protocol (MCP) server implementation for Notion integration, providing a standardized interface for interacting with Notion's API.</div>
@@ -538,7 +538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>animate-css/animate.css</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -606,7 +606,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>steveseguin/gemini-chatbot</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Interactive voice/video chat bot demo with Gemini AI; under 500-lines of vanilla Javascript!</div>
@@ -659,7 +659,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>steveseguin/chromicast</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python-based WebRTC to NDI tool</div>
@@ -709,7 +709,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Apr 2025, 23:01:23 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Apr 2025, 00:01:30 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
