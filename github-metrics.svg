@@ -485,7 +485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>animate-css/animate.css</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -553,7 +553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>steveseguin/gemini-chatbot</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Interactive voice/video chat bot demo with Gemini AI; under 500-lines of vanilla Javascript!</div>
@@ -606,7 +606,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>steveseguin/chromicast</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python-based WebRTC to NDI tool</div>
@@ -659,7 +659,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>steveseguin/Companion-Ninja</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sample web app that allows for remote control of VDO.Ninja using a http or websocket API. Provided API designed to be Companion compatible.</div>
@@ -703,7 +703,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Apr 2025, 08:01:23 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Apr 2025, 09:01:23 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
