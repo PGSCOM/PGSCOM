@@ -485,7 +485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sampotts/plyr</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple HTML5, YouTube and Vimeo player</div>
@@ -538,7 +538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ccabanillas/notion-mcp</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Model Context Protocol (MCP) server implementation for Notion integration, providing a standardized interface for interacting with Notion's API.</div>
@@ -709,7 +709,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Apr 2025, 14:01:46 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Apr 2025, 15:08:17 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
