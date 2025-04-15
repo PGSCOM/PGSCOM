@@ -485,7 +485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oprypin/nightly.link</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Downloads the latest "nightly" build/artifact from a continuous testing workflow</div>
@@ -538,7 +538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>paulpacifico/shutter-encoder</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A professional video compression tool accessible to all, mostly based on FFmpeg.</div>
@@ -688,7 +688,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Apr 2025, 13:01:14 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Apr 2025, 14:01:59 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
