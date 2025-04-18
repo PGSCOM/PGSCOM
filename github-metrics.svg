@@ -485,7 +485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brave/brave-core</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues</div>
@@ -538,7 +538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0-Blu/StikJIT</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An on-device JIT enabler for iOS versions 17.4+ (excluding iOS 18.4 beta 1), powered by idevice.</div>
@@ -591,7 +591,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yamadashy/repomix</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -656,7 +656,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pradyunsg/furo</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A clean customizable documentation theme for Sphinx</div>
@@ -706,7 +706,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Apr 2025, 17:01:13 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Apr 2025, 18:01:24 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
