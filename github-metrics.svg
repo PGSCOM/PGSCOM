@@ -485,7 +485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SYSTRAN/faster-whisper</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Faster Whisper transcription with CTranslate2</div>
@@ -538,7 +538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jgm/pandoc</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Universal markup converter</div>
@@ -694,7 +694,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Apr 2025, 03:28:58 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Apr 2025, 04:30:27 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
