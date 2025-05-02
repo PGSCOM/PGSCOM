@@ -485,7 +485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>atom0s/Steamless</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.</div>
@@ -694,7 +694,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 May 2025, 08:01:42 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 May 2025, 09:01:19 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
