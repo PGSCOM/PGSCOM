@@ -585,7 +585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-webui/mcpo</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, secure MCP-to-OpenAPI proxy server</div>
@@ -638,7 +638,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>camel-ai/owl</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -697,7 +697,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 May 2025, 13:01:21 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 May 2025, 14:01:34 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
