@@ -1,5 +1,5 @@
 <p align="center">
- <img width="150px" src="logocircular.svg" align="center" alt="PGSCOM" />
+ <img width="150px" src="IMG_5964.png" align="center" alt="PGSCOM" />
  <h2 align="center">PGSCOM</h2>
 </p>
 
