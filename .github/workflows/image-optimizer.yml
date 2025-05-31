@@ -1,8 +1,8 @@
-name: Compress Images
+name: Scheduled Compress Images
 
 on:
   workflow_dispatch:
-
+  
 permissions:
   contents: write
   pull-requests: write
@@ -12,6 +12,7 @@ jobs:
     name: cadamsdev/image-optimizer-action
     permissions: write-all
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
@@ -21,3 +22,12 @@ jobs:
         uses: cadamsdev/image-optimizer-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create New Pull Request If Needed
+        if: steps.compress-images.outputs.markdown_report != ''
+        uses: peter-evans/create-pull-request@v5
+        with:
+          title: Compressed Images
+          branch-suffix: timestamp
+          commit-message: Compressed Images
+          body: ${{ steps.compress-images.outputs.markdown_report }}
