@@ -1,4 +1,4 @@
-name: Compress Images in Pull Request
+name: Compress Images
 
 on:
   workflow_dispatch:
