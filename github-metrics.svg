@@ -580,7 +580,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wiresock/proxifyre</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ProxiFyre: SOCKS5 Proxifier for Windows</div>
@@ -633,7 +633,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xjasonlyu/tun2socks</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">tun2socks - powered by gVisor TCP/IP stack</div>
@@ -683,7 +683,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jul 2025, 19:02:39 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jul 2025, 20:01:35 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
