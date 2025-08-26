@@ -485,7 +485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anthropics/claude-code</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</div>
@@ -586,7 +586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HunxByts/GhostTrack</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Useful tool to track location or mobile number</div>
@@ -633,7 +633,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DigitalPlatDev/FreeDomain</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DigitalPlat FreeDomain: Free Domain For Everyone</div>
@@ -683,7 +683,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Aug 2025, 22:01:24 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2025, 23:01:17 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
