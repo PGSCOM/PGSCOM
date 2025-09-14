@@ -480,7 +480,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>muink/openwrt-alwaysonline</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hijack/bypass Windows NCSI and iOS portal detection on a network level.</div>
@@ -533,7 +533,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cogwheel0/luci-mobile</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Remotely manage your OpenWrt router. Monitor clients, interfaces, and status.</div>
@@ -586,7 +586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ViRb3/wgcf</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -654,7 +654,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jerrykuku/luci-theme-argon</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos.   It also supports automatic and manual switching between light and dark modes.</div>
@@ -704,7 +704,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Sept 2025, 20:01:17 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Sept 2025, 21:01:19 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
