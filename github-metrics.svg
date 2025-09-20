@@ -480,7 +480,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/zstd</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Zstandard - Fast real-time compression algorithm</div>
@@ -533,7 +533,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>saveweb/wikiteam3</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">archiving MediaWikis (and uploading wikidump to the Internet Archive)</div>
@@ -586,7 +586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WikiTeam/wikiteam</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.</div>
@@ -696,7 +696,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Sept 2025, 10:01:34 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Sept 2025, 11:01:19 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
