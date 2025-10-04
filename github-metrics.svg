@@ -485,7 +485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>playwora/wora</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -545,7 +545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ntdevlabs/tiny11builder</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scripts to build a trimmed-down Windows 11 image.</div>
@@ -592,7 +592,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>juanfont/headscale</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open source, self-hosted implementation of the Tailscale control server</div>
@@ -645,7 +645,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tailscale/tailscale</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The easiest, most secure way to use WireGuard and 2FA.</div>
@@ -695,7 +695,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Oct 2025, 08:01:20 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Oct 2025, 09:01:13 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
