@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ArchiveBox/ArchiveBox</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -554,7 +554,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rayenghanmi/RyTuneX</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.</div>
@@ -607,7 +607,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bleachbit/bleachbit</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BleachBit system cleaner for Windows and Linux</div>
@@ -660,7 +660,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RPCS3/rpcs3</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PlayStation 3 emulator and debugger</div>
@@ -710,7 +710,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Oct 2025, 19:01:15 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Oct 2025, 20:01:20 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
