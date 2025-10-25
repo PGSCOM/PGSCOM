@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Niek/obs-web</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OBS-web - the easiest way to control OBS remotely</div>
@@ -539,7 +539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>browseros-ai/BrowserOS</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -597,7 +597,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>moonlight-stream/moonlight-ios</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GameStream client for iOS/tvOS</div>
@@ -708,7 +708,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Oct 2025, 23:01:24 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Oct 2025, 00:01:27 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
