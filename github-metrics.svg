@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hugeBlack/GetMoreRam</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode</div>
@@ -533,7 +533,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LiveContainer/LiveContainer</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run iOS apps without actually installing them!</div>
@@ -586,7 +586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Dadoum/Provision</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Set of tools interracting with Apple servers. Don't hesitate to leave a star if you appreciate it.</div>
@@ -689,7 +689,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Oct 2025, 07:01:32 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2025, 08:02:08 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
