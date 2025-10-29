@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>breeze2/dsu-controller-guides</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A mobile app to simulate some game controllers.</div>
@@ -533,7 +533,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>themoonisacheese/autoverif</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Auto verify NSP, NSZ, XCI, XCZ to check if they have a valid hash and signature, on Linux and Windows.</div>
@@ -586,7 +586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ThisIsCheez/SwitchSafety</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Verifying the MD5 of Switch files</div>
@@ -677,7 +677,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Oct 2025, 02:29:04 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Oct 2025, 03:30:58 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
