@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ferriarnus/ReForgedPlay</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -540,7 +540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jaedle/mirror-to-gitea</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mirror your github repositories to your gitea server</div>
@@ -593,7 +593,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Muscaw/gitea-github-sync</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">gitea-github-sync provides a simple CLI to sync Github repositories to your Gitea instance</div>
@@ -696,7 +696,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Dec 2025, 23:01:23 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Dec 2025, 00:01:22 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
