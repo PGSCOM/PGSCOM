@@ -592,7 +592,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>icsharpcode/ILSpy</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&amp;more) - cross-platform!</div>
@@ -645,7 +645,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dnSpyEx/dnSpy</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</div>
@@ -695,7 +695,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Dec 2025, 02:29:44 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Dec 2025, 03:34:48 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
