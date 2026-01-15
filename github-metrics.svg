@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mitmproxy/mitmproxy</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.</div>
@@ -695,7 +695,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jan 2026, 23:01:24 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jan 2026, 00:01:19 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
