@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nicoboss/nsz</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NSZ - Homebrew compatible NSP/XCI compressor/decompressor</div>
@@ -539,7 +539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IKEA/IKEA3DAssemblyDataset</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The IKEA 3D Assembly Dataset is made available by Inter IKEA Systems B.V. to encourage research related to assembly instructions</div>
@@ -586,7 +586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>internetarchive/openlibrary</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">One webpage for every book ever published!</div>
@@ -639,7 +639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>internetarchive/heritrix3</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.</div>
@@ -689,7 +689,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jan 2026, 07:09:50 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jan 2026, 08:14:13 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
