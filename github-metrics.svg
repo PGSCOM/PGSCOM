@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>N3evin/AmiiboAPI</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A RESTful API for amiibo.</div>
@@ -539,7 +539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webtor-io/self-hosted</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted version of webtor.io implemented as an all-in-one Docker image</div>
@@ -639,7 +639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Raphire/Win11Debloat</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.</div>
@@ -689,7 +689,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Feb 2026, 11:02:23 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2026, 12:03:19 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
