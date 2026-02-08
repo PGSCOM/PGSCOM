@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alula/hbpatcher</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -540,7 +540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>N3evin/AmiiboAPI</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A RESTful API for amiibo.</div>
@@ -593,7 +593,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webtor-io/self-hosted</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted version of webtor.io implemented as an all-in-one Docker image</div>
@@ -690,7 +690,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Feb 2026, 18:04:45 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2026, 19:02:27 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
