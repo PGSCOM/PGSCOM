@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danielpaulus/go-ios</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.</div>
@@ -592,7 +592,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mouredev/hello-java</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Curso para aprender el lenguaje de programación Java y Programación Orientada a Objetos (POO) desde cero y para principiantes. 75 lecciones, más de 8 horas en vídeo y 150 ejercicios prácticos.</div>
@@ -695,7 +695,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Feb 2026, 17:18:34 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Feb 2026, 18:19:41 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
