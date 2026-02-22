@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AgentSmithers/x64DbgMCPServer</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">x64DbgMCPServer made from c# with Claude, Windsurf and Cursor support</div>
@@ -533,7 +533,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>x64dbg/x64dbg</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.</div>
@@ -586,7 +586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/sam-audio</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</div>
@@ -689,7 +689,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Feb 2026, 18:04:26 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Feb 2026, 19:02:48 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
