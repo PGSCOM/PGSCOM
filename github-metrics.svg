@@ -586,7 +586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>x64dbg/x64dbg</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.</div>
@@ -639,7 +639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/sam-audio</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</div>
@@ -689,7 +689,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Feb 2026, 20:20:49 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Feb 2026, 21:06:27 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
