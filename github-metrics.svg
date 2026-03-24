@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AssetRipper/AssetRipper</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GUI Application to work with engine assets, asset bundles, and serialized files</div>
@@ -539,7 +539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>typst/typst</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A markup-based typesetting system that is powerful and easy to learn.</div>
@@ -695,7 +695,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Mar 2026, 05:33:30 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Mar 2026, 06:27:03 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
