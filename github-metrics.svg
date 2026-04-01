@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aqquad/RebornRec</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RebornRec - Localhost server software for old Rec Room builds</div>
@@ -527,7 +527,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>recroom2016/OpenRec</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenRec - Open source Old RecRoom server software</div>
@@ -574,7 +574,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jabcode/jabcode</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">jabcode - color bar code</div>
@@ -671,7 +671,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Apr 2026, 16:28:42 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2026, 17:25:03 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
