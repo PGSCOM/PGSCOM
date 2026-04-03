@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qemu/qemu</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.</div>
@@ -539,7 +539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RealMCoded/LunarRec</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An experimental "live" RecNet server replacement for 2017 Rec Room builds</div>
@@ -592,7 +592,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ocrmypdf/OCRmyPDF</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched</div>
@@ -645,7 +645,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aqquad/RebornRec</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RebornRec - Localhost server software for old Rec Room builds</div>
@@ -683,7 +683,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Apr 2026, 14:06:51 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2026, 15:25:50 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
