@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RestoRoom/RestoRoom</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An early WIP community driven reinplementation of the Rec Room servers to keep Rec Room alive past June 1st 2026.</div>
@@ -527,7 +527,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anomalyco/opencode</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open source coding agent.</div>
@@ -580,7 +580,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LearningCircuit/local-deep-research</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local &amp; Encrypted.</div>
@@ -677,7 +677,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 May 2026, 13:22:43 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 May 2026, 14:13:39 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
