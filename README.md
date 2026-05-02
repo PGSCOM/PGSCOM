@@ -17,3 +17,6 @@
 <p align="center">
  <img src="github-metrics.svg" align="center"/>
 </p>
+<p align="center">
+ <img src="snk/github-contribution-grid-snake-dark.svg" align="center"/>
+</p>
