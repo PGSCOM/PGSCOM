@@ -486,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SteamClientHomebrew/PluginDatabase</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple repository providing version control for Millennium based Steam plugins.</div>
@@ -533,7 +533,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SteamClientHomebrew/Millennium</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source low-code modding framework to create, manage and use themes/plugins for the desktop Steam Client without any low-level internal interaction or overhead.</div>
@@ -586,7 +586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>theopenco/llmgateway</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.</div>
@@ -639,7 +639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Stirling-Tools/Stirling-PDF</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere</div>
@@ -689,7 +689,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 May 2026, 16:16:52 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 May 2026, 17:13:11 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
