@@ -1,0 +1,30 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snk/github-contribution-grid-snake.svg
+            snk/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Commit
+        run: |
+            git config --global user.name "github-actions"
+            git config --global user.email "github-actions@github.com"
+            git add dist
+            git commit -m "update snake svg" || echo "no changes"
+            git push
